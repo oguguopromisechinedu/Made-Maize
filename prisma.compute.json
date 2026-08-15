@@ -1,0 +1,11 @@
+{
+  "region": "us-west-1",
+  "app": {
+    "name": "made-maize",
+    "framework": "nextjs",
+    "httpPort": 3000,
+    "build": {
+      "command": "next build"
+    }
+  }
+}
